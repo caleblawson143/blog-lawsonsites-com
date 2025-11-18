@@ -1,0 +1,20 @@
+{
+  "site": {
+    "siteName": "Lawson Websites",
+    "heroTitle": "Insights and stories from the Lawson Websites team",
+    "heroSubtitle": "Thought leadership, case studies, and best practices to help you grow.",
+    "heroImageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1600&auto=format&fit=crop",
+    "aboutText": "We are a team of experts passionate about helping businesses succeed.",
+    "aboutImageUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop",
+    "contactEmail": "hello@company.co",
+    "contactPhone": "+1 (555) 555-0101",
+    "contactAddress": "123 Business St, City, ST",
+    "theme": {
+      "colors": {}
+    }
+  },
+  "theme": {
+    "colors": {}
+  },
+  "seo": {}
+}
